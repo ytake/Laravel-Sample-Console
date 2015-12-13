@@ -5,7 +5,7 @@
 [アドベントカレンダー](http://www.adventar.org/calendars/941)のArtisanサンプルです。
 
 # インストール
-動作させたい場合は、packagistに登録してませんので、composer.jsonに下記のように記述してください。
+packagistに登録していませんので、動作させたい場合はcomposer.jsonに下記のように記述してください。
 
 ```json
   "repositories": [
